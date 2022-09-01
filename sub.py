@@ -1,4 +1,4 @@
-a=10
-b=5
+def sub(a,b):
+    returm a-b
 
-print(a-b)
+print(sub(20,10))
